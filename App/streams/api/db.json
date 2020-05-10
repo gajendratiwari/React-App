@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a first stream",
+      "id": 1
+    },
+    {
+      "description": "This is a our stream",
+      "title": "Our Stream",
+      "id": 2
+    },
+    {
+      "description": "This is a our stream",
+      "title": "Our Stream",
+      "id": 3
+    },
+    {
+      "title": "Me streaming component",
+      "description": "the stream is changed",
+      "id": 5
+    }
+  ]
+}
